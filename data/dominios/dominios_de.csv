@@ -1,0 +1,24 @@
+pais,instituicao,ramo,dominio
+DE,Bundesverfassungsgericht,Federal,bverfg.de
+DE,Bundesgerichtshof,Federal,bgh.bund.de
+DE,Bundesverwaltungsgericht,Federal,bverwg.bund.de
+DE,Bundesfinanzhof,Federal,bfh.bund.de
+DE,Bundesarbeitsgericht,Federal,bundesarbeitsgericht.de
+DE,Bundessozialgericht,Federal,bsg.bund.de
+DE,Bundespatentgericht,Federal,bpatg.bund.de
+DE,Justiz Baden-Württemberg,Estadual,justiz.bwl.de
+DE,Justiz Bayern,Estadual,justiz.bayern.de
+DE,Justiz Berlin,Estadual,berlin.de
+DE,Justiz Brandenburg,Estadual,justiz.brandenburg.de
+DE,Justiz Bremen,Estadual,justiz.bremen.de
+DE,Justiz Hamburg,Estadual,justiz.hamburg.de
+DE,Justiz Hessen,Estadual,justiz.hessen.de
+DE,Justiz Mecklenburg-Vorpommern,Estadual,mv-justiz.de
+DE,Justiz Niedersachsen,Estadual,justiz.niedersachsen.de
+DE,Justiz Nordrhein-Westfalen,Estadual,justiz.nrw.de
+DE,Justiz Rheinland-Pfalz,Estadual,jm.rlp.de
+DE,Justiz Saarland,Estadual,justiz.saarland.de
+DE,Justiz Sachsen,Estadual,justiz.sachsen.de
+DE,Justiz Sachsen-Anhalt,Estadual,justiz.sachsen-anhalt.de
+DE,Justiz Schleswig-Holstein,Estadual,justiz.landsh.de
+DE,Justiz Thüringen,Estadual,justiz.thueringen.de
