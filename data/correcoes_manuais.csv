@@ -1,0 +1,22 @@
+dominio,provedor,confianca,regra,justificativa
+bverfg.de,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover",MX na rede do governo federal (bund.de)
+bgh.bund.de,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover",MX na rede do governo federal (bund.de)
+bverwg.bund.de,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover",MX na rede do governo federal (bund.de)
+bfh.bund.de,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover",MX na rede do governo federal (bund.de)
+bundesarbeitsgericht.de,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover",MX na rede do governo federal (bund.de)
+bsg.bund.de,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover",MX na rede do governo federal (bund.de)
+bpatg.bund.de,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover",MX na rede do governo federal (bund.de)
+justiz.bwl.de,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover","MX em domínio governamental do Land (bwl.de); operador público presumido pelo domínio, não confirmado documentalmente"
+justiz.bayern.de,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover","MX em domínio governamental do Land (bayern.de); operador público presumido pelo domínio, não confirmado documentalmente"
+berlin.de,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover","MX em domínio governamental do Land (berlin.de); operador público presumido pelo domínio, não confirmado documentalmente"
+justiz.brandenburg.de,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover","MX em domínio governamental do Land (brandenburg.de); operador público presumido pelo domínio, não confirmado documentalmente"
+justiz.bremen.de,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover","MX na Dataport, empresa pública (AöR) dos estados do norte"
+justiz.hamburg.de,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover","MX na Dataport, empresa pública (AöR) dos estados do norte"
+justiz.hessen.de,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover","MX em domínio governamental do Land (hessen.de); operador público presumido pelo domínio, não confirmado documentalmente"
+mv-justiz.de,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover","MX em domínio governamental do Land (mvnet.de); operador público presumido pelo domínio, não confirmado documentalmente"
+justiz.niedersachsen.de,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover","MX em domínio governamental do Land (niedersachsen.de); operador público presumido pelo domínio, não confirmado documentalmente"
+justiz.nrw.de,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover","MX em domínio governamental do Land (nrw.de); operador público presumido pelo domínio, não confirmado documentalmente"
+jm.rlp.de,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover","MX em domínio governamental do Land (rlp.de); operador público presumido pelo domínio, não confirmado documentalmente"
+justiz.saarland.de,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover","MX em domínio governamental do Land (saarland.de); operador público presumido pelo domínio, não confirmado documentalmente"
+justiz.sachsen-anhalt.de,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover","MX em domínio governamental do Land (sachsen-anhalt.de); operador público presumido pelo domínio, não confirmado documentalmente"
+justiz.landsh.de,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover","MX em domínio governamental do Land (landsh.de); operador público presumido pelo domínio, não confirmado documentalmente"
