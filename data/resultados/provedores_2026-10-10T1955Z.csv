@@ -116,4 +116,4 @@ data_hora,resolver,pais,instituicao,ramo,dominio,dns_status,mx_primario,spf_goog
 2026-10-10T19:55Z,dns.google,DE,Justiz Sachsen,Estadual,justiz.sachsen.de,0,s2vg300mr02.pzd-svn.de,nao,nao,sim,nao,nao,nao,nao,Indeterminado,—,R5: MX em operador não identificado
 2026-10-10T19:55Z,dns.google,DE,Justiz Sachsen-Anhalt,Estadual,justiz.sachsen-anhalt.de,0,mx1.sachsen-anhalt.de,nao,nao,sim,nao,nao,nao,nao,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover"
 2026-10-10T19:55Z,dns.google,DE,Justiz Schleswig-Holstein,Estadual,justiz.landsh.de,0,mx1.landsh.de,nao,nao,nao,nao,nao,nao,nao,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover"
-2026-10-10T19:55Z,dns.google,DE,Justiz Thüringen,Estadual,justiz.thueringen.de,0,hermes31.toringi.net,nao,nao,nao,nao,nao,sim,nao,Indeterminado,—,R5: MX em operador não identificado
+2026-10-10T19:55Z,dns.google,DE,Justiz Thüringen,Estadual,justiz.thueringen.de,0,hermes31.toringi.net,nao,nao,nao,nao,nao,sim,nao,Publico,media,"R4: MX em infraestrutura governamental; sem Google/Microsoft no SPF, DKIM ou autodiscover"

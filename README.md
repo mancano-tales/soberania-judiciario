@@ -15,17 +15,17 @@ Este repositório mede, com dados públicos de DNS, se o e-mail institucional do
 | Unidades medidas | 95 domínios: todos os 91 tribunais sob o CNJ, mais STF, CNJ, CJF e CSJT | 23 domínios: 7 tribunais federais e a administração da Justiça de 16 estados |
 | Google | 54 | 0 |
 | Microsoft | 38 | 0 |
-| Infraestrutura estatal | 0 | 21 |
-| Indeterminado | 3 | 2 |
+| Infraestrutura estatal | 0 | 22 |
+| Indeterminado | 3 | 1 |
 
 Confiança da classificação no Brasil: 82 alta (MX direto no provedor), 5 média e 5 baixa (e-mail recebido por um filtro intermediário; provedor inferido por DKIM, autodiscover ou SPF). Ver `docs/codebook.md`.
 
 ## O que estes dados mostram e o que não mostram
 
 - **Mostram onde fica a caixa de entrada** de cada domínio: na nuvem de uma empresa americana ou em servidores do Estado.
-- **Não mostram** contratos, onde ficam arquivos e documentos, quem controla as chaves de criptografia nem qual software roda nos servidores estatais. Um Land alemão pode, por exemplo, operar software Microsoft em servidor próprio. O contraste medido é **nuvem americana × hospedagem estatal**, não "fornecedor americano × autonomia tecnológica".
+- **Não mostram** contratos, onde ficam arquivos e documentos, quem controla as chaves de criptografia nem qual software roda nos servidores estatais. Os relatórios estaduais de TI da Justiça alemã mostram, por exemplo, Windows e Microsoft Office nos postos de trabalho e, em alguns estados, o Microsoft Teams. O contraste medido é **nuvem americana × hospedagem estatal**, não "fornecedor americano × autonomia tecnológica".
 - **O viés não tem direção conhecida.** Registros SPF podem superestimar o uso de um provedor (autorizações apenas para envio), e o MX pode subestimar (gateways que escondem o provedor).
-- **As unidades não são equivalentes.** O Brasil tem 91 tribunais sob o CNJ, cada um com autonomia administrativa e domínio próprio. A Alemanha tem cerca de 1.092 tribunais (CEPEJ, dados de 2021), cuja TI em geral é administrada pelo governo de cada estado. Ainda não medimos os tribunais alemães que têm domínio próprio (ver issue #1).
+- **As unidades não são equivalentes.** O Brasil tem 91 tribunais sob o CNJ, cada um com autonomia administrativa e domínio próprio. A Alemanha tem cerca de 1.092 tribunais (CEPEJ, dados de 2021), cuja TI é organizada no nível de cada estado, como confirmam os relatórios estaduais de TI da Justiça (`qualitativo/blk_laenderberichte.csv`). Ainda não medimos os tribunais alemães que têm domínio próprio (ver issue #1).
 
 ## Estrutura
 
